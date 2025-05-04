@@ -87,7 +87,8 @@ h1 {
   line-height: 100%;
   color: #fff;
   text-transform: uppercase;
-  margin: 88px 0 0;
+  /* margin: 88px 0 0; */
+  margin: 175px 0 0;
 }
 h1 span {
   color: #ffc800;
@@ -214,7 +215,8 @@ h3 span {
   border-radius: 24px;
   /* background: linear-gradient(181deg, #ffd910 -56.02%, #ffa512 99.01%); */
   background: linear-gradient(to bottom left, #15d6c9, #3498fd);
-  margin: 185px auto;
+  /* margin: 185px auto; */
+  margin: 500px auto 100px auto;
 }
 .banner h2 {
   text-transform: uppercase;
