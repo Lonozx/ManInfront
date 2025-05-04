@@ -774,7 +774,8 @@ p span {
   }
 
   .container {
-    background-image: url("../img/backgr-mob.webp?ver=1");
+    /* background-image: url("../img/backgr-mob.webp?ver=1"); */
+    background-image: url(./backgroundMobile.png);
     background-position: center top;
     background-size: cover;
   }
