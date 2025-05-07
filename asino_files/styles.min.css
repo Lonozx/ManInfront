@@ -776,8 +776,11 @@ p span {
   .container {
     /* background-image: url("../img/backgr-mob.webp?ver=1"); */
     background-image: url(./backgroundMobile.png);
-    background-position: center top;
-    background-size: cover;
+    /* background-position: center top;
+    background-size: cover; */
+    background-position: top;
+    background-size: contain;
+    background-repeat: no-repeat;
   }
 
   .container:before {
@@ -811,7 +814,8 @@ p span {
     font-size: 32px;
     line-height: 34px;
     /* margin: 75% auto 0; */
-    margin: 125% auto 0;
+    /* margin: 125% auto 0; */
+    margin: 60% auto 0;
     text-shadow: 0 5px 20px rgba(0, 0, 0, 0.7);
   }
 
@@ -960,7 +964,8 @@ p span {
   }
 
   h1 {
-    margin: 125% auto 0;
+    /* margin: 125% auto 0; */
+    margin: 60% auto 0;
   }
 
   .steps {
